@@ -1,6 +1,6 @@
 #include "steering_guidance_core.h"
 
-int main(int argc, char **argv)
+int main(int argc, char** argv)
 {
     ros::init(argc, argv, "steering_guidance");
 
